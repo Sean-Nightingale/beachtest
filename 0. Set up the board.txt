@@ -1,0 +1,10 @@
+Tic-tac-toe is played on a 3 by 3 grid of squares.
+
+Player 1 uses X.
+Player 2 uses O.
+
+Players take turns placing their mark in an empty square.
+
+The first player to get 3 of their marks in a row (horizontally, vertically, or diagonally) wins.
+
+If all 9 squares are filled and no player has 3 marks in a row, the game is a draw.
